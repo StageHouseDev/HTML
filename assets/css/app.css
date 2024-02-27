@@ -16735,7 +16735,7 @@ span.flatpickr-weekday {
   position: absolute;
   width: 24px;
   height: 24px;
-  background-color: rgba(0, 189, 157, 0.2);
+  background-color: rgba(78, 171, 233, 0.2);
   border-radius: 50%;
   bottom: 0;
   right: 0;
@@ -16771,7 +16771,7 @@ span.flatpickr-weekday {
 .navbar-landing .navbar-nav .nav-item .nav-link:hover,
 .navbar-landing .navbar-nav .nav-item .nav-link.active,
 .navbar-landing .navbar-nav .nav-item .nav-link:focus {
-  color: #00bd9d !important;
+  color: #00aeef !important;
 }
 .navbar-landing.is-sticky {
   background-color: var(--vz-secondary-bg);
